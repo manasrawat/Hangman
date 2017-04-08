@@ -32,10 +32,9 @@ namespace Hangman {
                 while (lives >= 0 && lettersFound < word.Length) {
                     string letterstr = ReadLine();
                     bool addChar = true, deduct = true;
-                    if (dictionary.Any(str => str == letterstr)) {
+                    if (dictionary.Any(aword => aword == letterstr) && letterstr.Length == word.Length) {
                         if (letterstr == word) lettersFound = word.Length;
-                    }
-                    else if (Regex.IsMatch(letterstr, @"^[A-Za-z]$")) {
+                    } else if (Regex.IsMatch(letterstr, @"^[A-Za-z]$")) {
                         char letter = Convert.ToChar(letterstr);
                         foreach (char c in taken) if (letter == c) addChar = false;
                         int currentY = CursorTop;
