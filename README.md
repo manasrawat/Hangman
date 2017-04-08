@@ -1,5 +1,3 @@
-![]("/Hangman/hangman.ico")
-
 # Hangman
 A C# hangman game that uses an extensive dictionary
 
