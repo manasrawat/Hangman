@@ -1,0 +1,6 @@
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\bin\Release\Dictionary.txt
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.exe
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.pdb
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\obj\Release\Hangman.exe
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\obj\Release\Hangman.pdb

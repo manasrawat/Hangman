@@ -4,3 +4,4 @@ c:\users\manas\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\H
 c:\users\manas\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
 c:\users\manas\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
 c:\users\manas\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\manas\Documents\Visual Studio 2015\Projects\Hangman\Hangman\bin\Debug\Dictionary.txt
